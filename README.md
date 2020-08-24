@@ -1,4 +1,4 @@
-# Citi-Bike
+# Citi-Bike-Analysis
 
 This analysis contains daily trip information in Jersey City, NJ from publicly available data published by Citi Bike (https://www.citibikenyc.com/system-data) 
 
