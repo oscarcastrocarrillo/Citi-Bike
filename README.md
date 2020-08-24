@@ -4,4 +4,4 @@ This analysis contains daily trip information in Jersey City, NJ from publicly a
 
 'Citi Bike Jersey City 2.0.ipynb' contains the full analysis (descriptive and inferential statistics) as a Jupyter Notebook
 
-'Citi Bike Tableau Viz' is a series of dashboards that describe the data in the analysis
+'Citi Bike Tableau Viz' is a link to the viz on Tableau Public and it's a series of dashboards that describe the data in the analysis
